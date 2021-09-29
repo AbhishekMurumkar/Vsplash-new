@@ -1,8 +1,8 @@
 # Vsplash-new
 
 ## Pre Requirements
-node >= 12.0.0
-npm  >= 6.5
+
+* node >= 12.0.0
 
 ## Installation
 1. clone the repo
